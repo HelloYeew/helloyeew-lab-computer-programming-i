@@ -1,2 +1,5 @@
-# helloyeew-lab-computer-programming-i
-All of my files from Laboratory Computer Programming I in SKE first term year 1.
+# HelloYeew's Labortory of Computer Programming I
+
+All of my python files from Laboratory Computer Programming I in SKE first term year 1.
+
+In this repo I put everything in this course into this repo (PDF problem too)
