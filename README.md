@@ -1,4 +1,4 @@
-# HelloYeew's Labortory of Computer Programming I
+# HelloYeew's Laboratory of Computer Programming I
 ![Alt text](catdestroycom.gif)
 
 All of my python files from Laboratory of Computer Programming I in SKE first term year 1.
